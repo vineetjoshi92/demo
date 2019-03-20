@@ -6,4 +6,4 @@ More text.
 
 More changes.
 
-This is bound to cause trouble
+Some changes.
